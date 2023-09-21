@@ -1,4 +1,4 @@
-package java.test.project.weebi;
+package pl.java.test.project.weebi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

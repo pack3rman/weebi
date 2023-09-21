@@ -1,4 +1,4 @@
-package java.test.project.weebi;
+package pl.java.test.project.weebi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
